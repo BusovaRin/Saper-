@@ -1,0 +1,15 @@
+D:\Chto-to\Saper\d1\d1\obj\Debug\d1.csprojResolveAssemblyReference.cache
+D:\Chto-to\Saper\d1\d1\obj\Debug\MainWindow.g.cs
+D:\Chto-to\Saper\d1\d1\obj\Debug\App.g.cs
+D:\Chto-to\Saper\d1\d1\obj\Debug\d1_MarkupCompile.cache
+D:\Chto-to\Saper\d1\d1\obj\Debug\d1_MarkupCompile.lref
+D:\Chto-to\Saper\d1\d1\bin\Debug\d1.exe.config
+D:\Chto-to\Saper\d1\d1\bin\Debug\d1.exe
+D:\Chto-to\Saper\d1\d1\bin\Debug\d1.pdb
+D:\Chto-to\Saper\d1\d1\obj\Debug\MainWindow.baml
+D:\Chto-to\Saper\d1\d1\obj\Debug\d1.g.resources
+D:\Chto-to\Saper\d1\d1\obj\Debug\d1.Properties.Resources.resources
+D:\Chto-to\Saper\d1\d1\obj\Debug\d1.csproj.GenerateResource.cache
+D:\Chto-to\Saper\d1\d1\obj\Debug\d1.csproj.CoreCompileInputs.cache
+D:\Chto-to\Saper\d1\d1\obj\Debug\d1.exe
+D:\Chto-to\Saper\d1\d1\obj\Debug\d1.pdb
